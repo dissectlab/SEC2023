@@ -12,21 +12,41 @@
    - Use GEKKO tool
    
 # Dataset 
-1. walk/walking_all_frame_cam1
-       /walking_all_frame_cam2
-       /walking_all_frame_cam3
-       /walking_all_frame_cam4
-       /walking_all_frame_cam5
-2. book/0
-   book/1
-   book/2
-   book/3
-   book/4
-3. handshake/0
-   handshake/1
-   handshake/2
-   handshake/3
-   handshake/4
+1. Walk
+
+       walk/walking_all_frame_cam1
+
+            /walking_all_frame_cam2
+       
+            /walking_all_frame_cam3
+       
+            /walking_all_frame_cam4
+       
+            /walking_all_frame_cam5
+            
+2. Book Pickup
+
+       book/0
+
+            /1
+       
+            /2
+       
+            /3
+       
+            /4
+       
+3. Handshake
+   
+      handshake/0
+
+            /1
+       
+            /2
+       
+            /3
+       
+            /4
    
 # Your project path:
   book
