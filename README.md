@@ -1,4 +1,4 @@
-# edge_3d_journal
+# Edge_3d_journal
 
 1. Difference Detector: task_schedule_{dataset name}.py
 
@@ -58,14 +58,16 @@
                 /4
    
 # Your project path:
-  book
+       Project Root/
+       
+                   /book
+         
+                   /handshake
   
-  handshake
+                   /walk
   
-  walk
+                   task_schedule_{dataset name}.py
   
-  task_schedule_{dataset name}.py
+                   server_{dataset name}.py
   
-  server_{dataset name}.py
-  
-  ......
+                   ......
