@@ -38,7 +38,7 @@
        
 3. Handshake
    
-      handshake/0
+       handshake/0
 
             /1
        
