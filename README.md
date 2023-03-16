@@ -10,3 +10,28 @@
    - With a given threshold
 5. Optimization, solutions: common/opt.py
    - Use GEKKO tool
+   
+# Dataset 
+1. walk/walking_all_frame_cam1
+       /walking_all_frame_cam2
+       /walking_all_frame_cam3
+       /walking_all_frame_cam4
+       /walking_all_frame_cam5
+2. book/0
+   book/1
+   book/2
+   book/3
+   book/4
+3. handshake/0
+   handshake/1
+   handshake/2
+   handshake/3
+   handshake/4
+   
+# Your project path:
+  book
+  handshake
+  walk
+  task_schedule_{dataset name}.py
+  server_{dataset name}.py
+  ......
