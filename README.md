@@ -1,4 +1,4 @@
-# Edge_3d_journal
+# Edge_3d_Journal
 
 1. Difference Detector: task_schedule_{dataset name}.py
 
@@ -71,3 +71,4 @@
                    server_{dataset name}.py
   
                    ......
+   Run task_schedule_{dataset name}.py first!
